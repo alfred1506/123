@@ -59,3 +59,4 @@ class Terminal
     puts "Банк диллера #{dealer.money}"
   end
 end
+// comment
